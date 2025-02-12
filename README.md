@@ -33,7 +33,7 @@ Je suis une développeuse Full Stack en formation, spécialisée en PHP et Larav
 - **Rôle :** Scrum Master et développeuse Full Stack.
 - **Fonctionnalité principale :** Système de messagerie pour les utilisateurs.
 - **Technologies utilisées :** HTML, CSS, Tailwind, JavaScript, PHP, PostgreSQL.
-- **Lien vers le projet :** [Lien vers le repository ou le site en ligne]
+- **Lien vers le projet :** (https://github.com/toughasara/Airbnb.git)
 
 ---
 
