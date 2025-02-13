@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sara Tougha
 
-### 🚀 Développeuse Full Stack | Étudiante à YouCode/UM6P | Passionnée par le développement web
+### 🚀 Développeuse Full Stack | Étudiante à YouCode-UM6P | Passionnée par le développement web
 
 💡 **À propos de moi**  
 Je suis une développeuse Full Stack en formation, spécialisée en PHP et Laravel. Actuellement, je travaille sur un projet inspiré d'Airbnb en tant que Scrum Master . Je suis à la recherche d'un stage de deux mois à partir de mai 2025 pour approfondir mes compétences et contribuer à des projets innovants.
