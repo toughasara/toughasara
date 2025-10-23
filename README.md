@@ -26,14 +26,14 @@
 
 - **Stagiaire Full Stack – OCP Maintenance Solutions** *(Juin–Août 2025)*  
   Application interne de suivi des KPI et gestion (CRUD, reporting, automatisations).  
-  **Stack :** Laravel, React.js, Jira  
+  **Stack :** Laravel, React.js  
 
 ---
 
 ## 🎓 **Formation**
 
 🎓 YouCode - UM6P *(2024 – Présent)*  
-Développement Web Full Stack Java/Angular  
+Développement Web Full Stack
 
 ---
 
